@@ -1,0 +1,436 @@
+District,Rating,Representative,STATEFP,CD115FP,AFFGEOID
+AL-07,Solid Democratic, Terri Sewell,01,07,5001500US0107
+AZ-03,Solid Democratic, Raúl Grijalva,04,03,5001500US0403
+AZ-07,Solid Democratic, Ruben Gallego,04,07,5001500US0407
+AZ-09,Solid Democratic,Open,04,09,5001500US0409
+CA-02,Solid Democratic, Jared Huffman,06,02,5001500US0602
+CA-03,Solid Democratic, John Garamendi,06,03,5001500US0603
+CA-05,Solid Democratic, Mike Thompson,06,05,5001500US0605
+CA-06,Solid Democratic, Doris Matsui,06,06,5001500US0606
+CA-09,Solid Democratic, Jerry McNerney,06,09,5001500US0609
+CA-11,Solid Democratic, Mark DeSaulnier,06,11,5001500US0611
+CA-12,Solid Democratic, Nancy Pelosi,06,12,5001500US0612
+CA-13,Solid Democratic, Barbara Lee,06,13,5001500US0613
+CA-14,Solid Democratic, Jackie Speier,06,14,5001500US0614
+CA-15,Solid Democratic, Eric Swalwell,06,15,5001500US0615
+CA-17,Solid Democratic, Ro Khanna,06,17,5001500US0617
+CA-18,Solid Democratic, Anna Eshoo,06,18,5001500US0618
+CA-19,Solid Democratic, Zoe Lofgren,06,19,5001500US0619
+CA-20,Solid Democratic, Jimmy Panetta,06,20,5001500US0620
+CA-24,Solid Democratic, Salud Carbajal,06,24,5001500US0624
+CA-26,Solid Democratic, Julia Brownley,06,26,5001500US0626
+CA-27,Solid Democratic, Judy Chu,06,27,5001500US0627
+CA-28,Solid Democratic, Adam Schiff,06,28,5001500US0628
+CA-29,Solid Democratic, Tony Cárdenas,06,29,5001500US0629
+CA-30,Solid Democratic, Brad Sherman,06,30,5001500US0630
+CA-31,Solid Democratic, Pete Aguilar,06,31,5001500US0631
+CA-32,Solid Democratic, Grace Napolitano,06,32,5001500US0632
+CA-33,Solid Democratic, Ted Lieu,06,33,5001500US0633
+CA-34,Solid Democratic, Jimmy Gomez,06,34,5001500US0634
+CA-35,Solid Democratic, Norma Torres,06,35,5001500US0635
+CA-36,Solid Democratic, Raul Ruiz,06,36,5001500US0636
+CA-37,Solid Democratic, Karen Bass,06,37,5001500US0637
+CA-38,Solid Democratic, Linda Sánchez,06,38,5001500US0638
+CA-40,Solid Democratic, Lucille Roybal-Allard,06,40,5001500US0640
+CA-41,Solid Democratic, Mark Takano,06,41,5001500US0641
+CA-43,Solid Democratic, Maxine Waters,06,43,5001500US0643
+CA-44,Solid Democratic, Nanette  Barragan,06,44,5001500US0644
+CA-46,Solid Democratic, Lou  Correa,06,46,5001500US0646
+CA-47,Solid Democratic, Alan Lowenthal,06,47,5001500US0647
+CA-51,Solid Democratic, Juan Vargas,06,51,5001500US0651
+CA-52,Solid Democratic, Scott Peters,06,52,5001500US0652
+CA-53,Solid Democratic, Susan Davis,06,53,5001500US0653
+CO-01,Solid Democratic, Diana DeGette,08,01,5001500US0801
+CO-02,Solid Democratic,Open,08,02,5001500US0802
+CO-07,Solid Democratic, Ed Perlmutter,08,07,5001500US0807
+CT-01,Solid Democratic, John Larson,09,01,5001500US0901
+CT-02,Solid Democratic, Joe Courtney,09,02,5001500US0902
+CT-03,Solid Democratic, Rosa DeLauro,09,03,5001500US0903
+CT-04,Solid Democratic, Jim Himes,09,04,5001500US0904
+CT-05,Solid Democratic,Open,09,05,5001500US0905
+DE-00,Solid Democratic, Lisa Blunt Rochester,10,00,5001500US1000
+FL-05,Solid Democratic, Al Lawson,12,05,5001500US1205
+FL-09,Solid Democratic, Darren  Soto,12,09,5001500US1209
+FL-10,Solid Democratic, Val Demings,12,10,5001500US1210
+FL-13,Solid Democratic, Charlie Crist,12,13,5001500US1213
+FL-14,Solid Democratic, Kathy Castor,12,14,5001500US1214
+FL-20,Solid Democratic, Alcee Hastings,12,20,5001500US1220
+FL-21,Solid Democratic, Lois Frankel,12,21,5001500US1221
+FL-22,Solid Democratic, Ted Deutch,12,22,5001500US1222
+FL-23,Solid Democratic, Debbie Wasserman Schultz,12,23,5001500US1223
+FL-24,Solid Democratic, Frederica Wilson,12,24,5001500US1224
+GA-02,Solid Democratic, Sanford Bishop,13,02,5001500US1302
+GA-04,Solid Democratic, Henry Johnson,13,04,5001500US1304
+GA-05,Solid Democratic, John Lewis,13,05,5001500US1305
+GA-13,Solid Democratic, David Scott,13,13,5001500US1313
+HI-01,Solid Democratic,Open,15,01,5001500US1501
+HI-02,Solid Democratic, Tulsi Gabbard,15,02,5001500US1502
+IA-02,Solid Democratic, David Loebsack,19,02,5001500US1902
+IL-01,Solid Democratic, Bobby Rush,17,01,5001500US1701
+IL-02,Solid Democratic, Robin Kelly,17,02,5001500US1702
+IL-03,Solid Democratic, Daniel Lipinski,17,03,5001500US1703
+IL-04,Solid Democratic,Open,17,04,5001500US1704
+IL-05,Solid Democratic, Mike Quigley,17,05,5001500US1705
+IL-07,Solid Democratic, Danny Davis,17,07,5001500US1707
+IL-08,Solid Democratic, Raja  Krishnamoorthi,17,08,5001500US1708
+IL-09,Solid Democratic, Janice Schakowsky,17,09,5001500US1709
+IL-10,Solid Democratic, Bradley Schneider,17,10,5001500US1710
+IL-11,Solid Democratic, Bill Foster,17,11,5001500US1711
+IL-17,Solid Democratic, Cheri Bustos,17,17,5001500US1717
+IN-01,Solid Democratic, Peter Visclosky,18,01,5001500US1801
+IN-07,Solid Democratic, André Carson,18,07,5001500US1807
+KY-03,Solid Democratic, John Yarmuth,21,03,5001500US2103
+LA-02,Solid Democratic, Cedric Richmond,22,02,5001500US2202
+MA-01,Solid Democratic, Richard Neal,25,01,5001500US2501
+MA-02,Solid Democratic, James McGovern,25,02,5001500US2502
+MA-03,Solid Democratic,Open,25,03,5001500US2503
+MA-04,Solid Democratic, Joseph Kennedy,25,04,5001500US2504
+MA-05,Solid Democratic, Katherine Clark,25,05,5001500US2505
+MA-06,Solid Democratic, Seth Moulton,25,06,5001500US2506
+MA-07,Solid Democratic,Open,25,07,5001500US2507
+MA-08,Solid Democratic, Stephen Lynch,25,08,5001500US2508
+MA-09,Solid Democratic, Bill Keating,25,09,5001500US2509
+MD-02,Solid Democratic, Dutch Ruppersberger,24,02,5001500US2402
+MD-03,Solid Democratic, John Sarbanes,24,03,5001500US2403
+MD-04,Solid Democratic, Anthony Brown,24,04,5001500US2404
+MD-05,Solid Democratic, Steny Hoyer,24,05,5001500US2405
+MD-06,Solid Democratic,Open,24,06,5001500US2406
+MD-07,Solid Democratic, Elijah Cummings,24,07,5001500US2407
+MD-08,Solid Democratic, Jamie  Raskin,24,08,5001500US2408
+ME-01,Solid Democratic, Chellie Pingree,23,01,5001500US2301
+MI-05,Solid Democratic, Daniel Kildee,26,05,5001500US2605
+MI-09,Solid Democratic,Open,26,09,5001500US2609
+MI-12,Solid Democratic, Debbie Dingell,26,12,5001500US2612
+MI-13,Solid Democratic,Vacant,26,13,5001500US2613
+MI-14,Solid Democratic, Brenda Lawrence,26,14,5001500US2614
+MN-04,Solid Democratic, Betty McCollum,27,04,5001500US2704
+MN-05,Solid Democratic,Open,27,05,5001500US2705
+MO-01,Solid Democratic, Lacy Clay,29,01,5001500US2901
+MO-05,Solid Democratic, Emanuel Cleaver,29,05,5001500US2905
+MS-02,Solid Democratic, Bennie Thompson,28,02,5001500US2802
+NC-01,Solid Democratic, George Butterfield,37,01,5001500US3701
+NC-04,Solid Democratic, David Price,37,04,5001500US3704
+NC-12,Solid Democratic, Alma Adams,37,12,5001500US3712
+NH-02,Solid Democratic, Ann Kuster,33,02,5001500US3302
+NJ-01,Solid Democratic, Donald Norcross,34,01,5001500US3401
+NJ-06,Solid Democratic, Frank Pallone,34,06,5001500US3406
+NJ-08,Solid Democratic, Albio Sires,34,08,5001500US3408
+NJ-09,Solid Democratic, Bill Pascrell,34,09,5001500US3409
+NJ-10,Solid Democratic, Donald Payne,34,10,5001500US3410
+NJ-12,Solid Democratic, Bonnie Watson Coleman,34,12,5001500US3412
+NM-01,Solid Democratic,Open,35,01,5001500US3501
+NM-03,Solid Democratic, Ben Luján,35,03,5001500US3503
+NV-01,Solid Democratic, Dina Titus,32,01,5001500US3201
+NY-03,Solid Democratic, Thomas Suozzi,36,03,5001500US3603
+NY-04,Solid Democratic, Kathleen Rice,36,04,5001500US3604
+NY-05,Solid Democratic, Gregory Meeks,36,05,5001500US3605
+NY-06,Solid Democratic, Grace Meng,36,06,5001500US3606
+NY-07,Solid Democratic, Nydia Velázquez,36,07,5001500US3607
+NY-08,Solid Democratic, Hakeem Jeffries,36,08,5001500US3608
+NY-09,Solid Democratic, Yvette Clarke,36,09,5001500US3609
+NY-10,Solid Democratic, Jerrold Nadler,36,10,5001500US3610
+NY-12,Solid Democratic, Carolyn Maloney,36,12,5001500US3612
+NY-13,Solid Democratic, Adriano Espaillat,36,13,5001500US3613
+NY-14,Solid Democratic,Open,36,14,5001500US3614
+NY-15,Solid Democratic, José Serrano,36,15,5001500US3615
+NY-16,Solid Democratic, Eliot Engel,36,16,5001500US3616
+NY-17,Solid Democratic, Nita Lowey,36,17,5001500US3617
+NY-18,Solid Democratic, Sean Maloney,36,18,5001500US3618
+NY-20,Solid Democratic, Paul Tonko,36,20,5001500US3620
+NY-25,Solid Democratic,Vacant,36,25,5001500US3625
+NY-26,Solid Democratic, Brian Higgins,36,26,5001500US3626
+OH-03,Solid Democratic, Joyce Beatty,39,03,5001500US3903
+OH-09,Solid Democratic, Marcy Kaptur,39,09,5001500US3909
+OH-11,Solid Democratic, Marcia Fudge,39,11,5001500US3911
+OH-13,Solid Democratic, Tim Ryan,39,13,5001500US3913
+OR-01,Solid Democratic, Suzanne Bonamici,41,01,5001500US4101
+OR-03,Solid Democratic, Earl Blumenauer,41,03,5001500US4103
+OR-04,Solid Democratic, Peter DeFazio,41,04,5001500US4104
+OR-05,Solid Democratic, Kurt Schrader,41,05,5001500US4105
+PA-02,Solid Democratic, Brendan Boyle,42,02,5001500US4202
+PA-03,Solid Democratic, Dwight Evans,42,03,5001500US4203
+PA-04,Solid Democratic,Open,42,04,5001500US4204
+PA-18,Solid Democratic, Michael Doyle,42,18,5001500US4218
+RI-01,Solid Democratic, David Cicilline,44,01,5001500US4401
+RI-02,Solid Democratic, Jim Langevin,44,02,5001500US4402
+SC-06,Solid Democratic, James Clyburn,45,06,5001500US4506
+TN-05,Solid Democratic, Jim Cooper,47,05,5001500US4705
+TN-09,Solid Democratic, Steve Cohen,47,09,5001500US4709
+TX-09,Solid Democratic, Al Green,48,09,5001500US4809
+TX-15,Solid Democratic, Vicente  Gonzalez,48,15,5001500US4815
+TX-16,Solid Democratic,Open,48,16,5001500US4816
+TX-18,Solid Democratic, Sheila Jackson Lee,48,18,5001500US4818
+TX-20,Solid Democratic, Joaquin Castro,48,20,5001500US4820
+TX-28,Solid Democratic, Henry Cuellar,48,28,5001500US4828
+TX-29,Solid Democratic,Open,48,29,5001500US4829
+TX-30,Solid Democratic, Eddie Johnson,48,30,5001500US4830
+TX-33,Solid Democratic, Marc Veasey,48,33,5001500US4833
+TX-34,Solid Democratic, Filemon Vela,48,34,5001500US4834
+TX-35,Solid Democratic, Lloyd Doggett,48,35,5001500US4835
+VA-03,Solid Democratic, Bobby Scott,51,03,5001500US5103
+VA-04,Solid Democratic, Donald McEachin,51,04,5001500US5104
+VA-08,Solid Democratic,Rep. Don Beyer,51,08,5001500US5108
+VA-11,Solid Democratic, Gerald Connolly,51,11,5001500US5111
+VT-00,Solid Democratic, Peter Welch,50,00,5001500US5000
+WA-01,Solid Democratic, Suzan DelBene,53,01,5001500US5301
+WA-02,Solid Democratic, Rick Larsen,53,02,5001500US5302
+WA-06,Solid Democratic, Derek Kilmer,53,06,5001500US5306
+WA-07,Solid Democratic, Pramila  Jayapal,53,07,5001500US5307
+WA-09,Solid Democratic, Adam Smith,53,09,5001500US5309
+WA-10,Solid Democratic, Denny Heck,53,10,5001500US5310
+WI-02,Solid Democratic, Mark Pocan,55,02,5001500US5502
+WI-03,Solid Democratic, Ron Kind,55,03,5001500US5503
+WI-04,Solid Democratic, Gwen Moore,55,04,5001500US5504
+AZ-01,Likely Democratic, Tom O'Halleran,04,01,5001500US0401
+CA-07,Likely Democratic, Ami Bera,06,07,5001500US0607
+CA-16,Likely Democratic, Jim Costa,06,16,5001500US0616
+FL-07,Likely Democratic, Stephanie  Murphy,12,07,5001500US1207
+MN-07,Likely Democratic, Collin Peterson,27,07,5001500US2707
+NH-01,Likely Democratic,Open,33,01,5001500US3301
+NJ-02,Likely Democratic,Open,34,02,5001500US3402
+NJ-05,Likely Democratic, Josh  Gottheimer,34,05,5001500US3405
+PA-05,Likely Democratic,Vacant,42,05,5001500US4205
+PA-06,Likely Democratic,Open,42,06,5001500US4206
+PA-08,Likely Democratic, Matthew Cartwright,42,08,5001500US4208
+PA-17,Likely Democratic, Keith Rothfus,42,17,5001500US4217
+AZ-02,Lean Democratic,Open,04,02,5001500US0402
+CA-49,Lean Democratic,Open,06,49,5001500US0649
+CO-06,Lean Democratic, Mike Coffman,08,06,5001500US0806
+IA-01,Lean Democratic, Rod Blum,19,01,5001500US1901
+IL-06,Lean Democratic, Peter Roskam,17,06,5001500US1706
+KS-03,Lean Democratic, Kevin Yoder,20,03,5001500US2003
+MI-11,Lean Democratic,Open,26,11,5001500US2611
+MN-02,Lean Democratic, Jason  Lewis,27,02,5001500US2702
+MN-03,Lean Democratic, Erik Paulsen,27,03,5001500US2703
+NJ-11,Lean Democratic,Open,34,11,5001500US3411
+NV-03,Lean Democratic,Open,32,03,5001500US3203
+NV-04,Lean Democratic,Open,32,04,5001500US3204
+PA-07,Lean Democratic,Vacant,42,07,5001500US4207
+VA-10,Lean Democratic, Barbara Comstock,51,10,5001500US5110
+MN-01,Toss-Up Democratic,Open,27,01,5001500US2701
+MN-08,Toss-Up Democratic,Open,27,08,5001500US2708
+AL-01,Solid Republican, Bradley Byrne,01,01,5001500US0101
+AL-02,Solid Republican, Martha Roby,01,02,5001500US0102
+AL-03,Solid Republican, Mike Rogers,01,03,5001500US0103
+AL-04,Solid Republican, Robert Aderholt,01,04,5001500US0104
+AL-05,Solid Republican, Mo Brooks,01,05,5001500US0105
+AL-06,Solid Republican, Gary Palmer,01,06,5001500US0106
+AR-01,Solid Republican, Eric Crawford,05,01,5001500US0501
+AR-03,Solid Republican, Steve Womack,05,03,5001500US0503
+AR-04,Solid Republican, Bruce Westerman,05,04,5001500US0504
+AZ-04,Solid Republican, Paul Gosar,04,04,5001500US0404
+AZ-05,Solid Republican, Andy Biggs,04,05,5001500US0405
+AZ-08,Solid Republican, Debbie Lesko,04,08,5001500US0408
+CA-01,Solid Republican, Doug LaMalfa,06,01,5001500US0601
+CA-08,Solid Republican, Paul Cook,06,08,5001500US0608
+CA-22,Solid Republican, Devin Nunes,06,22,5001500US0622
+CA-23,Solid Republican, Kevin McCarthy,06,23,5001500US0623
+CA-42,Solid Republican, Ken Calvert,06,42,5001500US0642
+CO-04,Solid Republican,Open,08,04,5001500US0804
+CO-05,Solid Republican, Doug Lamborn,08,05,5001500US0805
+FL-01,Solid Republican, Matt Gaetz,12,01,5001500US1201
+FL-02,Solid Republican, Neal  Dunn,12,02,5001500US1202
+FL-03,Solid Republican, Ted Yoho,12,03,5001500US1203
+FL-04,Solid Republican, John Rutherford,12,04,5001500US1204
+FL-08,Solid Republican, Bill Posey,12,08,5001500US1208
+FL-11,Solid Republican, Daniel Webster,12,11,5001500US1211
+FL-12,Solid Republican, Gus Bilirakis,12,12,5001500US1212
+FL-17,Solid Republican,Open,12,17,5001500US1217
+FL-19,Solid Republican, Francis  Rooney,12,19,5001500US1219
+GA-01,Solid Republican, Buddy Carter,13,01,5001500US1301
+GA-03,Solid Republican, Drew  Ferguson,13,03,5001500US1303
+GA-08,Solid Republican, Austin Scott,13,08,5001500US1308
+GA-09,Solid Republican, Doug Collins,13,09,5001500US1309
+GA-10,Solid Republican, Jody Hice,13,10,5001500US1310
+GA-11,Solid Republican, Barry Loudermilk,13,11,5001500US1311
+GA-12,Solid Republican, Rick Allen,13,12,5001500US1312
+GA-14,Solid Republican, Tom Graves,13,14,5001500US1314
+ID-01,Solid Republican,Open,16,01,5001500US1601
+ID-02,Solid Republican, Mike Simpson,16,02,5001500US1602
+IL-15,Solid Republican, John Shimkus,17,15,5001500US1715
+IL-16,Solid Republican, Adam Kinzinger,17,16,5001500US1716
+IL-18,Solid Republican, Darin LaHood,17,18,5001500US1718
+IN-03,Solid Republican, Jim  Banks,18,03,5001500US1803
+IN-04,Solid Republican,Open,18,04,5001500US1804
+IN-05,Solid Republican, Susan Brooks,18,05,5001500US1805
+IN-06,Solid Republican,Open,18,06,5001500US1806
+IN-08,Solid Republican, Larry Bucshon,18,08,5001500US1808
+IN-09,Solid Republican, Trey  Hollingsworth,18,09,5001500US1809
+KS-01,Solid Republican, Roger Marshall,20,01,5001500US2001
+KS-04,Solid Republican, Ron Estes,20,04,5001500US2004
+KY-01,Solid Republican, James Comer,21,01,5001500US2101
+KY-02,Solid Republican, Brett Guthrie,21,02,5001500US2102
+KY-04,Solid Republican, Thomas Massie,21,04,5001500US2104
+KY-05,Solid Republican, Harold Rogers,21,05,5001500US2105
+LA-01,Solid Republican, Steve Scalise,22,01,5001500US2201
+LA-03,Solid Republican, Clay Higgins,22,03,5001500US2203
+LA-04,Solid Republican, Mike Johnson,22,04,5001500US2204
+LA-05,Solid Republican, Ralph Abraham,22,05,5001500US2205
+LA-06,Solid Republican, Garret Graves,22,06,5001500US2206
+MD-01,Solid Republican, Andy Harris,24,01,5001500US2401
+MI-02,Solid Republican, Bill Huizenga,26,02,5001500US2602
+MI-04,Solid Republican, John Moolenaar,26,04,5001500US2604
+MI-10,Solid Republican, Paul Mitchell,26,10,5001500US2610
+MN-06,Solid Republican, Tom Emmer,27,06,5001500US2706
+MO-03,Solid Republican, Blaine Luetkemeyer,29,03,5001500US2903
+MO-04,Solid Republican, Vicky Hartzler,29,04,5001500US2904
+MO-06,Solid Republican, Sam Graves,29,06,5001500US2906
+MO-07,Solid Republican, Billy Long,29,07,5001500US2907
+MO-08,Solid Republican, Jason Smith,29,08,5001500US2908
+MS-01,Solid Republican, Trent Kelly,28,01,5001500US2801
+MS-03,Solid Republican,Open,28,03,5001500US2803
+MS-04,Solid Republican, Steven Palazzo,28,04,5001500US2804
+NC-03,Solid Republican, Walter Jones,37,03,5001500US3703
+NC-05,Solid Republican, Virginia Foxx,37,05,5001500US3705
+NC-06,Solid Republican, Mark Walker,37,06,5001500US3706
+NC-07,Solid Republican, David Rouzer,37,07,5001500US3707
+NC-10,Solid Republican, Patrick McHenry,37,10,5001500US3710
+NC-11,Solid Republican, Mark Meadows,37,11,5001500US3711
+ND-00,Solid Republican,Open,38,00,5001500US3800
+NE-01,Solid Republican, Jeff Fortenberry,31,01,5001500US3101
+NE-03,Solid Republican, Adrian Smith,31,03,5001500US3103
+NJ-04,Solid Republican, Christopher Smith,34,04,5001500US3404
+NV-02,Solid Republican, Mark Amodei,32,02,5001500US3202
+NY-23,Solid Republican, Tom Reed,36,23,5001500US3623
+OH-02,Solid Republican, Brad Wenstrup,39,02,5001500US3902
+OH-04,Solid Republican, Jim Jordan,39,04,5001500US3904
+OH-05,Solid Republican, Robert Latta,39,05,5001500US3905
+OH-06,Solid Republican, Bill Johnson,39,06,5001500US3906
+OH-07,Solid Republican, Bob Gibbs,39,07,5001500US3907
+OH-08,Solid Republican, Warren  Davidson,39,08,5001500US3908
+OH-15,Solid Republican, Steve Stivers,39,15,5001500US3915
+OH-16,Solid Republican,Open,39,16,5001500US3916
+OK-01,Solid Republican,Open,40,01,5001500US4001
+OK-02,Solid Republican, Markwayne Mullin,40,02,5001500US4002
+OK-03,Solid Republican, Frank Lucas,40,03,5001500US4003
+OK-04,Solid Republican, Tom Cole,40,04,5001500US4004
+OK-05,Solid Republican, Steve Russell,40,05,5001500US4005
+OR-02,Solid Republican, Greg Walden,41,02,5001500US4102
+PA-09,Solid Republican,Open,42,09,5001500US4209
+PA-11,Solid Republican, Lloyd Smucker,42,11,5001500US4211
+PA-12,Solid Republican, Tom Marino,42,12,5001500US4212
+PA-13,Solid Republican,Open,42,13,5001500US4213
+PA-15,Solid Republican, Glenn Thompson,42,15,5001500US4215
+SC-02,Solid Republican, Joe Wilson,45,02,5001500US4502
+SC-03,Solid Republican, Jeff Duncan,45,03,5001500US4503
+SC-04,Solid Republican,Open,45,04,5001500US4504
+SC-05,Solid Republican, Ralph Norman,45,05,5001500US4505
+SC-07,Solid Republican, Tom Rice,45,07,5001500US4507
+SD-00,Solid Republican,Open,46,00,5001500US4600
+TN-01,Solid Republican, David Roe,47,01,5001500US4701
+TN-02,Solid Republican,Open,47,02,5001500US4702
+TN-03,Solid Republican, Charles Fleischmann,47,03,5001500US4703
+TN-04,Solid Republican, Scott DesJarlais,47,04,5001500US4704
+TN-06,Solid Republican,Open,47,06,5001500US4706
+TN-07,Solid Republican,Open,47,07,5001500US4707
+TN-08,Solid Republican, David  Kustoff,47,08,5001500US4708
+TX-01,Solid Republican, Louie Gohmert,48,01,5001500US4801
+TX-03,Solid Republican,Open,48,03,5001500US4803
+TX-04,Solid Republican, John Ratcliffe,48,04,5001500US4804
+TX-05,Solid Republican,Open,48,05,5001500US4805
+TX-06,Solid Republican,Open,48,06,5001500US4806
+TX-08,Solid Republican, Kevin Brady,48,08,5001500US4808
+TX-10,Solid Republican, Michael McCaul,48,10,5001500US4810
+TX-11,Solid Republican, Mike Conaway,48,11,5001500US4811
+TX-12,Solid Republican, Kay Granger,48,12,5001500US4812
+TX-13,Solid Republican, Mac Thornberry,48,13,5001500US4813
+TX-14,Solid Republican, Randy Weber,48,14,5001500US4814
+TX-17,Solid Republican, Bill Flores,48,17,5001500US4817
+TX-19,Solid Republican, Jodey  Arrington,48,19,5001500US4819
+TX-25,Solid Republican, Roger Williams,48,25,5001500US4825
+TX-26,Solid Republican, Michael Burgess,48,26,5001500US4826
+TX-27,Solid Republican, Michael Cloud,48,27,5001500US4827
+TX-36,Solid Republican, Brian Babin,48,36,5001500US4836
+UT-01,Solid Republican, Rob Bishop,49,01,5001500US4901
+UT-02,Solid Republican, Chris Stewart,49,02,5001500US4902
+UT-03,Solid Republican, John Curtis,49,03,5001500US4903
+VA-01,Solid Republican, Robert Wittman,51,01,5001500US5101
+VA-06,Solid Republican,Open,51,06,5001500US5106
+VA-09,Solid Republican, Morgan Griffith,51,09,5001500US5109
+WA-04,Solid Republican, Dan Newhouse,53,04,5001500US5304
+WI-05,Solid Republican, Jim Sensenbrenner,55,05,5001500US5505
+WI-07,Solid Republican, Sean Duffy,55,07,5001500US5507
+WI-08,Solid Republican, Mike  Gallagher,55,08,5001500US5508
+WV-01,Solid Republican, David McKinley,54,01,5001500US5401
+WV-02,Solid Republican, Alex Mooney,54,02,5001500US5402
+WY-00,Solid Republican, Liz Cheney,56,00,5001500US5600
+AK-00,Likely Republican, Don Young,02,00,5001500US0200
+AZ-06,Likely Republican, David Schweikert,04,06,5001500US0406
+CA-04,Likely Republican, Tom McClintock,06,04,5001500US0604
+CA-21,Likely Republican, David Valadao,06,21,5001500US0621
+CO-03,Likely Republican, Scott Tipton,08,03,5001500US0803
+FL-06,Likely Republican,Open,12,06,5001500US1206
+FL-18,Likely Republican, Brian  Mast,12,18,5001500US1218
+FL-25,Likely Republican, Mario Diaz-Balart,12,25,5001500US1225
+IA-04,Likely Republican, Steve King,19,04,5001500US1904
+IN-02,Likely Republican, Jackie Walorski,18,02,5001500US1802
+MI-01,Likely Republican, Jack  Bergman,26,01,5001500US2601
+MI-03,Likely Republican, Justin Amash,26,03,5001500US2603
+MI-06,Likely Republican, Fred Upton,26,06,5001500US2606
+MI-07,Likely Republican, Tim Walberg,26,07,5001500US2607
+NC-08,Likely Republican, Richard Hudson,37,08,5001500US3708
+NY-01,Likely Republican, Lee Zeldin,36,01,5001500US3601
+NY-02,Likely Republican, Peter King,36,02,5001500US3602
+NY-11,Likely Republican, Daniel Donovan,36,11,5001500US3611
+NY-21,Likely Republican, Elise Stefanik,36,21,5001500US3621
+OH-10,Likely Republican, Michael Turner,39,10,5001500US3910
+OH-14,Likely Republican, David Joyce,39,14,5001500US3914
+PA-14,Likely Republican,Open,42,14,5001500US4214
+TX-02,Likely Republican,Open,48,02,5001500US4802
+TX-21,Likely Republican,Open,48,21,5001500US4821
+TX-22,Likely Republican, Pete Olson,48,22,5001500US4822
+TX-24,Likely Republican, Kenny Marchant,48,24,5001500US4824
+WI-06,Likely Republican, Glenn Grothman,55,06,5001500US5506
+AR-02,Lean Republican, French Hill,05,02,5001500US0502
+CA-50,Lean Republican, Duncan Hunter,06,50,5001500US0650
+FL-15,Lean Republican,Open,12,15,5001500US1215
+FL-16,Lean Republican, Vern Buchanan,12,16,5001500US1216
+GA-06,Lean Republican, Karen Handel,13,06,5001500US1306
+GA-07,Lean Republican, Rob Woodall,13,07,5001500US1307
+IL-13,Lean Republican, Rodney Davis,17,13,5001500US1713
+MO-02,Lean Republican, Ann Wagner,29,02,5001500US2902
+MT-00,Lean Republican, Greg Gianforte,30,00,5001500US3000
+NC-02,Lean Republican, George Holding,37,02,5001500US3702
+NE-02,Lean Republican, Don  Bacon,31,02,5001500US3102
+NY-24,Lean Republican, John Katko,36,24,5001500US3624
+NY-27,Lean Republican, Chris Collins,36,27,5001500US3627
+OH-12,Lean Republican, Troy Balderson,39,12,5001500US3912
+PA-10,Lean Republican, Scott Perry,42,10,5001500US4210
+PA-16,Lean Republican, Mike Kelly,42,16,5001500US4216
+SC-01,Lean Republican,Open,45,01,5001500US4501
+TX-23,Lean Republican, Will Hurd,48,23,5001500US4823
+TX-31,Lean Republican, John Carter,48,31,5001500US4831
+VA-05,Lean Republican,Open,51,05,5001500US5105
+WA-03,Lean Republican, Jaime Herrera Beutler,53,03,5001500US5303
+WA-05,Lean Republican, Cathy McMorris Rodgers,53,05,5001500US5305
+WI-01,Lean Republican,Open,55,01,5001500US5501
+WV-03,Lean Republican,Open,54,03,5001500US5403
+CA-10,Toss-Up Republican, Jeff Denham,06,10,5001500US0610
+CA-25,Toss-Up Republican, Steve Knight,06,25,5001500US0625
+CA-39,Toss-Up Republican,Open,06,39,5001500US0639
+CA-45,Toss-Up Republican, Mimi Walters,06,45,5001500US0645
+CA-48,Toss-Up Republican, Dana Rohrabacher,06,48,5001500US0648
+FL-26,Toss-Up Republican, Carlos Curbelo,12,26,5001500US1226
+FL-27,Toss-Up Republican,Open,12,27,5001500US1227
+IA-03,Toss-Up Republican, David Young,19,03,5001500US1903
+IL-12,Toss-Up Republican, Mike Bost,17,12,5001500US1712
+IL-14,Toss-Up Republican, Randy Hultgren,17,14,5001500US1714
+KS-02,Toss-Up Republican,Open,20,02,5001500US2002
+KY-06,Toss-Up Republican, Andy Barr,21,06,5001500US2106
+ME-02,Toss-Up Republican, Bruce Poliquin,23,02,5001500US2302
+MI-08,Toss-Up Republican, Mike Bishop,26,08,5001500US2608
+NC-09,Toss-Up Republican,Open,37,09,5001500US3709
+NC-13,Toss-Up Republican, Ted Budd,37,13,5001500US3713
+NJ-03,Toss-Up Republican, Tom MacArthur,34,03,5001500US3403
+NJ-07,Toss-Up Republican, Leonard Lance,34,07,5001500US3407
+NM-02,Toss-Up Republican,Open,35,02,5001500US3502
+NY-19,Toss-Up Republican, John Faso,36,19,5001500US3619
+NY-22,Toss-Up Republican, Claudia Tenney,36,22,5001500US3622
+OH-01,Toss-Up Republican, Steve Chabot,39,01,5001500US3901
+PA-01,Toss-Up Republican, Brian   Fitzpatrick,42,01,5001500US4201
+TX-07,Toss-Up Republican, John Culberson,48,07,5001500US4807
+TX-32,Toss-Up Republican, Pete Sessions,48,32,5001500US4832
+UT-04,Toss-Up Republican, Mia Love,49,04,5001500US4904
+VA-02,Toss-Up Republican, Scott Taylor,51,02,5001500US5102
+VA-07,Toss-Up Republican, David Brat,51,07,5001500US5107
+WA-08,Toss-Up Republican,Open,53,08,5001500US5308
